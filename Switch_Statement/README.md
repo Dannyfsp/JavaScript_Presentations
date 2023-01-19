@@ -25,6 +25,7 @@ switch (expression){
 }
 ```
 | Syntax | Description |
+| ----------- | ----------|
 | **expression** | specifies an expression to be evaluated. The expression is evaluated once. The value of the expression is compared with the values of each case labels in the structure. If there is a match, the associated block of code is executed |
 | **case** | each of the case is checked against the value of the expression until a match is found |
 | **break** | indicate the end of a particular case. if it is omitted, each statement will continue to execute |
