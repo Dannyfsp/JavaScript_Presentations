@@ -65,7 +65,7 @@ switch (grade){
 - We can nest multiple switch statements.
 
 *Assignment: :)*
-- use switch statement to check for a particular day of the week and print the day to the console.
+- use switch statement to check for a particular day of the week and print the day to the terminal.
 - variable should be getDay.
 - case 0 should print Sunday
 - case 1 should print Monday
