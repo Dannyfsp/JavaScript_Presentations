@@ -74,8 +74,8 @@ switch (grade){
 - case 6 should print Saturday
 
 #### Resources used:
-- geeksforgeeks
-- w3schools
+- [geeksforgeeks](https://www.geeksforgeeks.org/switch-case-in-javascript/)
+- [w3schools](https://www.w3schools.com/js/js_switch.asp)
 
 #### Author
 Aghogho Daniel Bogare <femoscopilala@gmail.com>
