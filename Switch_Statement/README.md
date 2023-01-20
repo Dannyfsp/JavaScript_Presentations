@@ -56,6 +56,7 @@ switch (grade){
     default:
         console.log(grade, "is an invalid grade!");
 }
+// The output is going to be 'A'.
 ```
 ### Rules for Switch Statement
 - An expression must always execute to a result.
